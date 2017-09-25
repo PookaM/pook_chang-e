@@ -1,0 +1,12 @@
+{
+	"contact": "pooka251@gmail.com",
+	"id": "PookChang'e",
+	"patches": {
+		"reimu_rod": "Restore Reimu's Rod"
+	},
+	"servers": [
+		"http://thcrap.nmlgc.net/repos/PookChang'e/",
+		"http://mirrors.thpatch.net/PookChang'e/"
+	],
+	"title": "Pook Chang'e's Patches"
+}
