@@ -4,5 +4,5 @@
 		"http://thcrap.nmlgc.net/repos/PookChang'e/reimu_rod/",
 		"http://mirrors.thpatch.net/PookChang'e/reimu_rod/"
 	],
-	"title": "Restore Reimu's Rod"
+	"title": "Restore Reimu's purification rod in TH15 and TH16"
 }
