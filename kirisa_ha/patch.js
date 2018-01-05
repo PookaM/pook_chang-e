@@ -1,7 +1,7 @@
 {
     "dependencies": [
         "nmlgc/base_tsa",
-        "thpatch/lang_en/"
+        "thpatch/lang_en"
     ],
     "id": "kirisa_ha",
     "servers": [
