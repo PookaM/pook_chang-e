@@ -4,8 +4,8 @@
     ],
     "id": "reimu_rod",
     "servers": [
-        "http://thcrap.nmlgc.net/repos/PookChang'e/reimu_rod/",
-        "http://mirrors.thpatch.net/PookChang'e/reimu_rod/"
+		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/reimu_gohei/",
+        "https://mirrors.thpatch.net/VasteelXolotl/reimu_gohei/"
     ],
-    "title": "Restore Reimu's purification rod in TH15 and TH16"
+    "title": "[patch moved to VasteelXolotl/reimu_gohei]"
 }
