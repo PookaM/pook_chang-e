@@ -4,7 +4,8 @@
     ],
     "id": "reimu_rod",
     "servers": [
-        "http://mirrors.thpatch.net/VasteelXolotl/reimu_rod/"
+		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/reimu_gohei/",
+        "https://mirrors.thpatch.net/VasteelXolotl/reimu_gohei/"
     ],
-    "title": "[patch moved to VasteelXolotl/reimu_rod]"
+    "title": "[patch moved to VasteelXolotl/reimu_gohei]"
 }
