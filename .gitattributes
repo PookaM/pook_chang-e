@@ -1,0 +1,6 @@
+.gitattributes text
+*.md text
+*.js text
+*.jdiff text
+*.ogg binary
+*.png binary
